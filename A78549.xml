@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voice in Rhama: or, The crie of women and children. Ecchoed forth in the compassions of Peter Chamberlen, Doctour in Physick, Fellow of the Colledge of London, and one of his Majesties physicians extraordinary.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78549</idno>
+            <idno type="STC">Wing C1910</idno>
+            <idno type="STC">Thomason E1181_8</idno>
+            <idno type="STC">ESTC R208153</idno>
+            <idno type="EEBO-CITATION">99867134</idno>
+            <idno type="PROQUEST">99867134</idno>
+            <idno type="VID">119425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119425)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1181[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voice in Rhama: or, The crie of women and children. Ecchoed forth in the compassions of Peter Chamberlen, Doctour in Physick, Fellow of the Colledge of London, and one of his Majesties physicians extraordinary.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bentley: for John Marshall, and are to be sold at his shop at the Hand and Pen in Corn-hill, over against the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Domini 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "march 1st 1646"; the 7 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor women --  England --  17th century --  Early works to 1800.</term>
+               <term>Poor children --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119425:1" rendition="simple:additions"/>
+            <p>A VOICE IN RHAMA: OR, The Crie of Women and Children.</p>
+            <p>Ecchoed forth in the Compaſſions of PETER CHAMBERLEN, Doctour in Phyſick, Fellow of the Colledge of <hi>London,</hi> and one of his Majeſties Phyſicians Extraordinary.</p>
+            <p>
+               <hi>LONDON,</hi> ¶ Printed by WILLIAM BENTLEY: for John Marſhall, and are to be ſold at his ſhop at the Hand and Pen in Corn-hill, over againſt the Royall Exchange.</p>
+            <p>
+               <hi>Anno Domini</hi> 1647</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:119425:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>JOHN DOWNAME.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119425:2"/>
+            <head>¶ A Voice in Rhama.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Loud (which polutes a land, and cries aloud to heaven) runs yet freſh from the innocent veins of Women and Children, for want of ſome charitable Sa<g ref="char:EOLhyphen"/>maritanes to bind up the Wounds which Ignorance and Diſorder amongſt ſome un<g ref="char:EOLhyphen"/>controled femal-Arbiters of Life and Death, and others daily make. The conſcience whereof, as formerly it moved my pious Fa<g ref="char:EOLhyphen"/>ther to repreſent it to King JAMES, ſo hath it me to move it ſince unto the King my Ma<g ref="char:EOLhyphen"/>ſter; who (by mediation of that true-hearted Honour of Nobilitie, the Earl of Pembroke and Mountgomery) read the Petition, and vouchſafed a gracious reference. And it received the teſte and approbation of thoſe two learned Columnes of our Facultie, S<hi rend="sup">r</hi> 
+               <hi>Theodore de Mayerne,</hi> and S<hi rend="sup">r</hi> 
+               <hi>Matthew Liſter.</hi> The benefit being computed (over and above the bettering of health and ſtrength to Parents and Children) to the ſaving of above three thouſand lives a year in and about <hi>London,</hi> beſide the reſt of <hi>England,</hi> and all other parts where the ſame Order might have been propagated.</p>
+            <pb facs="tcp:119425:3"/>
+            <p>A deſign (I thought) ſo full of Pietie that no man would,— ſo full of Innocencie that no man could,— ſo full of Importance and generall concernment that no man durſt have oppoſed.</p>
+            <p>But the Prince of Darkneſſe had an hour over the Lord of Life: much more might this find enemies, though to their own hurt.</p>
+            <p>What diſcredit had it been for a Profeſſi<g ref="char:EOLhyphen"/>on, which lies under common diſgrace and contempt, to attain to the Gravitie and Ho<g ref="char:EOLhyphen"/>nour of Order and Government?</p>
+            <p>What burden had it been for a Calling, which requires knowledge, to be made more knowing and full of experience?</p>
+            <p>What loſſe had it been to increaſe the number of the Living, which cannot but be an increaſe of employment to all ſorts of Trades and Profeſſions whatſoever? yea, to the very Grave-maker, had he but patience to ſuſpend his Harveſt till the Young grew up to increaſe and multiply (not untimely but) more and larger Graves? What ſhall I con<g ref="char:EOLhyphen"/>clude? Folly is as certainly wedded to Wickedneſſe, as Wiſdom is to Goodneſſe.</p>
+            <p>They ſold their Quiet for Trouble, their Credit for Shame, and their Gain for Loſſe.</p>
+            <p>Yet are not ſome weary of contriving miſchief, who (as if the poiſon of Aſpes were under their lips) ceaſe not to defame, ſlander, and condemn all I have, all I do: not ſpa<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:119425:3"/>my very thoughts, and future intenti<g ref="char:EOLhyphen"/>ons: degrading my Titles, diſabling my Pra<g ref="char:EOLhyphen"/>ctice, miſconſtruing all my Chriſtian deſigns, and limiting all my ſtudies to the bare manu<g ref="char:EOLhyphen"/>all operations of Deliveries. And they alſo ſcandalized with Vncharitableneſſe and Ava<g ref="char:EOLhyphen"/>rice.</p>
+            <p>Nevertheleſſe, I had patiented my ſelf with ſilence had the Publick Good gone on: but finding the Common-wealth ſtill wounded through my ſides and ſo much Bloud at ſtake: I could do no leſſe than remove that obſtacle, by publiſhing a free Relation of ſo much of me as concerns theſe particulars, or ſo much of theſe particulars as may ſerve to ſatisfie all that love Truth: without barking at them that bark, or wounding their Names ſo much as with their own infamous Hiſtories, or mention.</p>
+            <p>I know to whom Vengeance belongeth, and I have not ſo learn't Chriſt as to invade his Prerogative. My duty is to do good for evil, and to enthrone each Member of our Facultie in the true Orb it ought to ſhine in, were they as willing to accept as I to offer my endeavours. For (alas) it is too grie<g ref="char:EOLhyphen"/>vous to think what a Deluge of Bloud lies on their Graves or Conſciences ſince theſe thirty years that my Father attempted this Charitie, and thirteen years ſince I, in his ex<g ref="char:EOLhyphen"/>ample, revived it. And it were a Querie worth laying to heart; Whether ever theſe Wars, Plagues, and Troubles will have an
+<pb facs="tcp:119425:4"/>end, till ſome Compaſſion be had, and Reme<g ref="char:EOLhyphen"/>die allowed againſt theſe Vnprofitable un<g ref="char:EOLhyphen"/>known Cruelties: But that's above. I come unto my ſelf.</p>
+            <p>My birth was in <hi>May,</hi> ſixteen hundred and one, in the Precinct of the <hi>Black-friers, Lon<g ref="char:EOLhyphen"/>don.</hi> I boaſt not the <hi>Norman</hi> Familie of <hi>Tan<g ref="char:EOLhyphen"/>kervile,</hi> nor any Lordly extraction of <hi>England.</hi> My rejoycing is to be of the Eſcapes of Pa<g ref="char:EOLhyphen"/>riſian Maſſacres, and of honeſt Parents, fear<g ref="char:EOLhyphen"/>ing God, for which beloved, and well report<g ref="char:EOLhyphen"/>ed of by Neighbours.</p>
+            <p>They gave me education in Schools, Vni<g ref="char:EOLhyphen"/>verſities and Travels. The vacancy of School<g ref="char:EOLhyphen"/>ing was improved to Galenicall and Chymi<g ref="char:EOLhyphen"/>call Preparations, and ſome Chyrurgicall Operations, by the aſſiduous care of an indul<g ref="char:EOLhyphen"/>gent Father, of known fame and ſucceſſe in all the Parts of Phyſick, beſides the opportu<g ref="char:EOLhyphen"/>nities I had from others of my Paternall and Maternall kindred, not lightly eſteemed of in the ſame.</p>
+            <p>At the Vniverſitie I piddled in Chyrurge<g ref="char:EOLhyphen"/>ry, amongſt my fellow-Pupils of <hi>Emmanuel</hi> Colledge in <hi>Cambridge.</hi>
+            </p>
+            <p>I did Publick Exerciſes in <hi>Heydelberg</hi> and <hi>Padua:</hi> and (ere nineteen ſunnes had mea<g ref="char:EOLhyphen"/>ſured out my Nativitie) received the Docto<g ref="char:EOLhyphen"/>rall Robes of that Vniverſitie, and wore my Scarlet under that worthie Profeſſour of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> Doctour <hi>Clayton,</hi> and the next year un<g ref="char:EOLhyphen"/>der the Doctour of the Chair in <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+            </p>
+            <pb facs="tcp:119425:4"/>
+            <p>I confeſſe, my Degree ſeemed big unto my ſelf, and the pointings of the finger dyed my Cheeks with the reflection of my Robes, Yet I was led into Practice, which God bleſt with Gifts of Healing.</p>
+            <p>Then Fame begot me Envie, and ſecret E<g ref="char:EOLhyphen"/>nemies, which mightily increaſed when my Father added to me the knowledge of Deli<g ref="char:EOLhyphen"/>veries, and Cures of Women. Yet I was ad<g ref="char:EOLhyphen"/>mitted into the fellowſhip of the Colledge of <hi>London,</hi> and became ſubordinat unto my Seniors. Thus I grew up to Titles and Pri<g ref="char:EOLhyphen"/>viledges.</p>
+            <p>But Titles give not Learning, nor Learn<g ref="char:EOLhyphen"/>ing Experience: therefore if their Lincius Dragon-eyes could have juſtly pried into the Deficiencie or Errours of my Practice, I had (no doubt) more loudly heard on't. But to have left little place to men of Learning and Experience to vant their Diſcoveries or Suc<g ref="char:EOLhyphen"/>ceſſe, where I have been gravel'd: and to have been conſtant to thoſe Remedies which now the Generality and beſt approved of our Fa<g ref="char:EOLhyphen"/>cultie incline to (as by Apothecaries books of thirtie years paſt, compared with the preſent might appear) ſecure me from juſt taxations, and vindicate me from the Crowd of the Ignorant, where ſome pernicious tongues of impudence would rank me</p>
+            <p>I might queſtion them what groſſe ſtupidi<g ref="char:EOLhyphen"/>tie they ever obſerved in me, that being nurſ<g ref="char:EOLhyphen"/>ed up (as from the cradle) to all the Parts of Phyſick, and that in Aſclepiad-Families I
+<pb facs="tcp:119425:5"/>ſhould be wanting in the common know<g ref="char:EOLhyphen"/>ledge of Clyſters, Apozemes, Potions, Pills, Juleps, Cordialls and the like, which they are ready (how ignorantly or unjuſtly ſoever) to allow to young Apothecaries, and to their very Apprentices. Or what ſupine neglect, that in twenty ſeven years I might not have benefited ſo much by all my Books, Confe<g ref="char:EOLhyphen"/>rences, Obſervations, and Practice, beſide my former Studies and Travels, as to be valued with one of ſeven years ſtudy of Phyſick in the Vniverſitie without Practice?</p>
+            <p>I might admoniſh them of the indignitie they offer to the Vniverſities, and to the Col<g ref="char:EOLhyphen"/>ledge of Phyſicians in <hi>London,</hi> by doubting my Title: intimating either a Diſability in them all to judge, or a Diſhoneſtie in them all, to teſtifie ſo partially for Ignorance, and give it place among the Learned.</p>
+            <p>And for the Limitation of this Title to Deliveries, in regard I obtained the one be<g ref="char:EOLhyphen"/>fore I pretended to the other, and that none of the Profeſſours were verſed in that way, this might ſeem to judicious men the moſt ridiculous detraction of all the reſt, and of greateſt unlikelyhood. Yet this, by the poli<g ref="char:EOLhyphen"/>tick malice of the Vngratefull, and wilfull ignorance of the Envious, hath taken great<g ref="char:EOLhyphen"/>eſt place, even amongſt many, who ought to be better acquainted with Academick pro<g ref="char:EOLhyphen"/>ceedings. They cunningly allow me a tran<g ref="char:EOLhyphen"/>ſcendency in the particular of Deliveries, that they may the more ſecurely denie me my due
+<pb facs="tcp:119425:5"/>in Phyſick, as if the one were privitive or de<g ref="char:EOLhyphen"/>ſtructive to the other. And, having thus de<g ref="char:EOLhyphen"/>nied me the generall, ſome recoil back, and queſtion even that particular, till they leave me nothing at all. But theſe are Back-biters, things, that hate the light: yet if any amongſt them be of ſufficient learning and repute to come in competition, and have an itch to proſecute this Calumnie any further, I refuſe not (the ſame as in former times) to enter the Liſts (not ſo much of learned noyſe and ſcolding, which commonly begins in Words, multiplies to Names, and ends in Blows: be<g ref="char:EOLhyphen"/>ing hardly determined by the learned, and which I neither love, nor refuſe, as) of reall Cures, and written Conſultations, where<g ref="char:EOLhyphen"/>in both Learned, and Vnlearned may be Judges.</p>
+            <p>No doubt but all that know me would wonder much to hear me thus plead my Right, but that they cannot but won<g ref="char:EOLhyphen"/>der more that there is ſuch occaſion gi<g ref="char:EOLhyphen"/>ven.</p>
+            <p>
+               <hi>Meum</hi> and <hi>Tuum</hi> divide the World into Factions, into Atoms: and till the World return to its firſt ſimplicitie, or (as in the morning of the Goſpel) to a Chriſtian <hi>Vtopia,</hi> there will be repinings, and Covetouſneſſe will be the Root of all Evil. This, This is the true Cauſe that fils their hearts with Ma<g ref="char:EOLhyphen"/>lice, and their mouthes with Slanders: that what good ſoever I have done, or endeavour<g ref="char:EOLhyphen"/>ed to do is miſconſtrued, or forgotten; and the
+<pb facs="tcp:119425:6"/>evil I never did is laid to my charge, though I am not free from evil.</p>
+            <p>I am no Phariſee, yet I juſtifie my dealings with Men before God and Man, and plead not guilty of the ſacrifice of Conſcience to their grand Idol Avarice.</p>
+            <p>Firſt, My Poſſeſſions crie not out againſt me, they being reduced nigh to their firſt Principles, of mine and my wife's Portion. Onely a better Portion is added to us, of nine ſmall children.</p>
+            <p>Secondly, The Poor cannot juſtly clamour againſt me, they having as freely enjoyed my Counſels and Labours, both in Medicines and Deliveries, as the Rich; even then when the burthen of all the Midwives in and about <hi>London</hi> lay onely on my ſhoulders, what ever the virulency of tongues have blazoned to the contrary; till ſome more eager of the em<g ref="char:EOLhyphen"/>ployment than my ſelf, and more knowing how to make it gainfull (after I had diſ<g ref="char:EOLhyphen"/>charged my Conſcience in my offer to the Publick) intruded into what I willingly re<g ref="char:EOLhyphen"/>figned.</p>
+            <p>An Argument of no ſmall force to prove the diſcontents I found in that kind of Pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p>Thirdly, I could not well be guilty of ex<g ref="char:EOLhyphen"/>action: 1 For that I ſeldom bargained be<g ref="char:EOLhyphen"/>fore hand, or not above twentie times when exceedingly animated by ſome freſh injuries and groſſe abuſes; although I hold not bar<g ref="char:EOLhyphen"/>gains unlawfull, ſo long as the Labourer is
+<pb facs="tcp:119425:6"/>worthy of his hire. 2 They were intruſted with my Operations before they rewarded me with their Purſe. 3 I never arreſted any for what was due, whether by bargain, promiſe, or otherwiſe: although in all abuſed. 4 I never demanded the full value of the Operation, if equally compared with other matters of price, or other great Operations of Chyrurgery, or mine own chargeable Education, or with any other Examples.</p>
+            <p>That Operation merits 100<hi rend="sup">li.</hi> as well as other Cures or Operations, according to the value of Lives and Eſtates. Yet for one who hath paid me 10<hi rend="sup">li.</hi> I have delivered 100 for nothing, as many for little or nothing, and as many for leſſe than nothing; ſuch as thought it a point of wiſdom to ſave their Purſe and pay me with Lies and Scandals, inſufferable Scandals, and ſo frequent till they cauſed me abhor the work it ſelf. Yea, my very Cha<g ref="char:EOLhyphen"/>ritie hath been often, and is to this day retort<g ref="char:EOLhyphen"/>ed as an Argument againſt my due: as if it were a part of great Injuſtice to have given away or undervalued my Art to ſome, and not to do the like to all. Becauſe I conſidered the Caſe of the Poor, therefore I ought not to be conſidered of the Rich.</p>
+            <p>And who will be rich in matter of pay<g ref="char:EOLhyphen"/>ment? Truly, ſcarce an Alderman's fellow. Perhaps ſome one Black Swan or Phenix will be liberall, or pay his money without abate<g ref="char:EOLhyphen"/>ment, or grudging: but 100 for that one, will either ſlip out of the way, or pay
+<pb facs="tcp:119425:7"/>half, or a fourth part (if any thing at all) and that repiningly, and ſometimes reproch<g ref="char:EOLhyphen"/>fully.</p>
+            <p>This is the fruit of after-games, or proſti<g ref="char:EOLhyphen"/>tuting an Art to the Candour of them that know it not: but it muſt be ſo no more. To prevent therefore, both diſcontent on the one ſide, and diſhoneſtie on the other, I reſolve (as others uſe to do, and as they have hither<g ref="char:EOLhyphen"/>to falſly reported of me) to afford my Labours to none but ſuch as truſt me with their mo<g ref="char:EOLhyphen"/>ney before I truſt them with my Art, which I ſhall afford at 10<hi rend="sup">li.</hi> to any that are reputed worth 1000<hi rend="sup">li.</hi> and in leſſer proportion to ſuch as ſhall bring with them the teſtimonie of their Miniſter, and Neighbours of their meaner condition: and if the Certificat rank them amongſt the Poor I ſhall as freely as ever give them aſſiſtance. But if any (except Kindred, Friends, Patients, or Miniſters) ad<g ref="char:EOLhyphen"/>dreſſe themſelves unto me without the former conditions, let them not think it ſtrange if I turn my former affabilities into future deny<g ref="char:EOLhyphen"/>als, and that I lay my ſelf leſſe open to affronts in that kind than formerly.</p>
+            <p>The Draper is not bound to find Cloth for all the naked, becauſe he hath enough in his ſhop, nor yet to afford it at the Buyers price. The Lawyer is not obliged to ſpend his voice and ſpirits for all the Injured in <hi>Forma Pauperis,</hi> becauſe he pleads well, and ſhall be heard. Acts of Charitie are more due from Kindred than from Strangers.
+<pb facs="tcp:119425:7"/>When a Husband of ſufficient means ſhall not think his Wife nor Child's life worth 10<hi rend="sup">li.</hi> I am not bound to beſtow that on them which is of more value. I could inſtance ma<g ref="char:EOLhyphen"/>ny ſuch kind Husbands, and of late, one who valued his word at above 500<hi rend="sup">li.</hi> but the dan<g ref="char:EOLhyphen"/>ger of his Wife not above 5<hi rend="sup">li.</hi> and that in queſtion of cavelling, if need had required it. In ſumme, I am wholly tired out with the injuries, vexations, and loſſes of the buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>I have ſerved the Common-wealth now twenty ſeven years, toyling both early and late, not without the frequent hazard of my Life. I have ſpent my Youth and Indu<g ref="char:EOLhyphen"/>ſtrey for Food and Raiment, never receiving any Publick Encouragement, or Gratuity, but to be valued beyond my Condition or Demerit in Taxes. I have ſerved theſe many years the King and Queen by ſpeciall Com<g ref="char:EOLhyphen"/>mands, and in ſome eſpeciall ſervices, receiving onely one Reward and a Diamant-Ring from her Majeſtie, but not any ſtipend at all from Either. And if the ſame Diligence and Induſtrie had been imployed with the ſame Stock either in Trade, Merchandize, or the Laws: or in Negotiations for the Court or State, I cannot think ſo meanly of Gods en<g ref="char:EOLhyphen"/>dowments and bleſſings, as not to have culmi<g ref="char:EOLhyphen"/>nated with the beſt of my Equals. But enough of boaſting, if yet the Common-wealth may receive the benefit intended: for which I thus argue.</p>
+            <pb facs="tcp:119425:8"/>
+            <p>Firſt, If my Wayes and Titles, are juſtifiable<g ref="char:punc">▪</g> why may not the State as well reſent a Pro<g ref="char:EOLhyphen"/>poſition of Publick Good from me as from another? And if from me, then this is one Propoſition I do yet recommend; <hi>That ſome Order may be ſettled by the State for the Inſtruction and Civil Government of Mid<g ref="char:EOLhyphen"/>wives.</hi>
+            </p>
+            <p>Secondly, Though my Wayes and Deal<g ref="char:EOLhyphen"/>ings were not juſtifiable, yet why may not ſo much good as I am able to do herein be accepted, and the evil that is found in me be reſtrained or puniſhed?</p>
+            <p>Thirdly, Though I were the worſt of men, ſo as not worthy to be named, yet why are not ſome more worthy Perſons employ<g ref="char:EOLhyphen"/>ed in this Propoſition, or it examined whe<g ref="char:EOLhyphen"/>ther it tend to good or no, and ſo much as is good be reteined, the reſt waved and condemned?</p>
+            <p>Doth the Argument ſound well, that be<g ref="char:EOLhyphen"/>cauſe I am ſaid to be evil, therefore the Common-wealth muſt want a Benefit of no relation at all to that evil? becauſe I am pretended to be Ignorant, or Covetous, or both, therefore ſome ignorant Women, whom either extream Povertie hath neceſſita<g ref="char:EOLhyphen"/>ted, or Hard-heartedneſſe preſumed, or the Game of Venus intruded into the calling of Midwifry (to have the iſſues of Life and Death of two or three at one time in their hands, beſide the conſequence of Health and Strength of the whole Nation) ſhould nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:119425:8"/>be ſufficiently inſtructed in doing Good, nor reſtrained from doing Evil?</p>
+            <p>Shall want of Preſident be here objected? May ſuch, as will, nor be Wiſe, nor religious but by Preſident, ever want Preſident to be either? Yet this hath Preſident in ſome For<g ref="char:EOLhyphen"/>reign examples.</p>
+            <p>The Objection infers thus much, Becauſe there was never any Order for inſtructing, and governing of Midwives, therefore there never muſt be. Becauſe multitudes have pe<g ref="char:EOLhyphen"/>riſhed, therefore they ſtill muſt periſh. Be<g ref="char:EOLhyphen"/>cauſe our Fore-fathers have provided no re<g ref="char:EOLhyphen"/>medie, nor knew any, therefore we muſt pro<g ref="char:EOLhyphen"/>vide none, though we know it. If all our Fore-fathers had ſubſcribed to this Argu<g ref="char:EOLhyphen"/>ment, there had never been beginning of thoſe many conveniencies we now enjoy, and we had been left to the Worlds firſt ignorance and nakedneſſe. And it follows alſo, That be<g ref="char:EOLhyphen"/>cauſe our Fore-fathers adored Idols and Devils, therefore we muſt do the like.</p>
+            <p>It may be when Biſhops are reſtored again, their Ordinaries will come in to plead their care.</p>
+            <p>Of what? Truly that none ſhall do good without their leave.</p>
+            <p>That none ſhall have leave, but ſuch as will take their Oath and pay Money.</p>
+            <p>That taking this Oath and paying their Money with the teſtimonie of two or three Goſſips, any may have leave to be as ignorant, if not as cruel as themſelves, and that none
+<pb facs="tcp:119425:9"/>ſhall have the Priviledge to be ſo certainly forſworn as theſe who ſwear impoſſibilities: but of Inſtruction or Order amongſt the Midwives, not one word.</p>
+            <p>O that Chriſtians and well-minded Peo<g ref="char:EOLhyphen"/>ple would lay theſe premiſſes to heart. If this <hi>Voice in Rhama,</hi> If this <hi>Crie of Women and Children,</hi> be ſo: loud and lamentable, how ought every one to play the good Samaritane? how ought every man to play the wiſe Man to conſider his own intereſt, leſt his own health be at ſtake in it? And though it were a figment, yet ought it not ſtill crie without a hearing.</p>
+            <p>I call not particularly upon Magiſtrats and Miniſters, they commonly are wiſe, and know beſt what uſe to make of ſuch intimati<g ref="char:EOLhyphen"/>ons, and how far they are engaged in Conſci<g ref="char:EOLhyphen"/>ence to promote it, and by what wayes. And for my ſelf, I ſuppoſe I need not appear any further in it. I and my Familie are out of Gunne-ſhot, of the forementioned dan<g ref="char:EOLhyphen"/>gers. I have formerly caſt pearls before Swine, and found the iſſue.</p>
+            <p>I now have unfolded my Talent from the Napkin. I have waſhed my hands, I have delivered my ſoul.</p>
+            <closer>
+               <hi>The Mighty God of Compaſsions bleſſe this Publick Information to his Glory.</hi> Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
